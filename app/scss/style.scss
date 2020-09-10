@@ -1,13 +1,7 @@
-html {
-    box-sizing: border-box;
-}
+@import '_vars';
+@import '_global';
 
-*,
-*::before,
-*::after {
-    box-sizing: inherit;
-}
 
-.box {
-    display: block;
-}
+
+
+
